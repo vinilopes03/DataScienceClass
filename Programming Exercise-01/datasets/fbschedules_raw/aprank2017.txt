@@ -1,0 +1,135 @@
+https://www.espn.com/college-football/rankings/_/week/1/year/2017/seasontype/2
+AP Top 25
+RK	
+TEAM
+REC	PTS	
+TREND
+1	
+Alabama
+Alabama
+(52)
+0-0	1513	
+-
+2	
+Ohio State
+Ohio State
+(3)
+0-0	1414	
+-
+3	
+Florida State
+Florida State
+(4)
+0-0	1396	
+-
+4	
+USC
+USC
+(2)
+0-0	1325	
+-
+5	
+Clemson
+Clemson
+0-0	1201	
+-
+6	
+Penn State
+Penn State
+0-0	1196	
+-
+7	
+Oklahoma
+Oklahoma
+0-0	1170	
+-
+8	
+Washington
+Washington
+0-0	1150	
+-
+9	
+Wisconsin
+Wisconsin
+0-0	926	
+-
+10	
+Oklahoma State
+Oklahoma State
+0-0	889	
+-
+11	
+Michigan
+Michigan
+0-0	881	
+-
+12	
+Auburn
+Auburn
+0-0	880	
+-
+13	
+LSU
+LSU
+0-0	784	
+-
+14	
+Stanford
+Stanford
+0-0	695	
+-
+15	
+Georgia
+Georgia
+0-0	690	
+NR
+16	
+Louisville
+Louisville
+0-0	629	
+-
+17	
+Florida
+Florida
+0-0	624	
+-
+18	
+Miami
+Miami
+0-0	492	
+-
+19	
+South Florida
+South Florida
+0-0	327	
+-
+20	
+Kansas State
+Kansas State
+0-0	317	
+NR
+21	
+Virginia Tech
+Virginia Tech
+0-0	240	
+-
+22	
+West Virginia
+West Virginia
+0-0	207	
+-
+23	
+Texas
+Texas
+0-0	173	
+NR
+24	
+Washington State
+Washington State
+0-0	133	
+NR
+25	
+Tennessee
+Tennessee
+0-0	114	
+-

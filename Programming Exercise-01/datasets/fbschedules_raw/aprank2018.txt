@@ -1,0 +1,134 @@
+https://www.espn.com/college-football/rankings/_/week/1/year/2018/seasontype/2
+AP Top 25
+RK	
+TEAM
+REC	PTS	
+TREND
+1	
+Alabama
+Alabama
+(42)
+0-0	1505	
+NR
+2	
+Clemson
+Clemson
+(18)
+0-0	1476	
+NR
+3	
+Georgia
+Georgia
+0-0	1350	
+NR
+4	
+Wisconsin
+Wisconsin
+(1)
+0-0	1271	
+NR
+5	
+Ohio State
+Ohio State
+0-0	1256	
+NR
+6	
+Washington
+Washington
+0-0	1215	
+NR
+7	
+Oklahoma
+Oklahoma
+0-0	1173	
+NR
+8	
+Miami
+Miami
+0-0	1027	
+NR
+9	
+Auburn
+Auburn
+0-0	1013	
+NR
+10	
+Penn State
+Penn State
+0-0	1012	
+NR
+11	
+Michigan State
+Michigan State
+0-0	877	
+NR
+12	
+Notre Dame
+Notre Dame
+0-0	804	
+NR
+13	
+Stanford
+Stanford
+0-0	778	
+NR
+14	
+Michigan
+Michigan
+0-0	773	
+NR
+15	
+USC
+USC
+0-0	543	
+NR
+16	
+TCU
+TCU
+0-0	533	
+NR
+17	
+West Virginia
+West Virginia
+0-0	511	
+NR
+18	
+Mississippi State
+Mississippi State
+0-0	450	
+NR
+19	
+Florida State
+Florida State
+0-0	384	
+NR
+20	
+Virginia Tech
+Virginia Tech
+0-0	351	
+NR
+21	
+UCF
+UCF
+0-0	312	
+NR
+22	
+Boise State
+Boise State
+0-0	292	
+NR
+23	
+Texas
+Texas
+0-0	216	
+NR
+24	
+Oregon
+Oregon
+0-0	148	
+NR
+25	
+LSU
+LSU
+0-0	106	
+NR

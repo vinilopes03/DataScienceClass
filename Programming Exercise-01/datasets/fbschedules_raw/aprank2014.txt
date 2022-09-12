@@ -1,0 +1,135 @@
+https://www.espn.com/college-football/rankings/_/week/1/year/2014/seasontype/2
+AP Top 25
+RK	
+TEAM
+REC	PTS	
+TREND
+1	
+Florida State
+Florida State
+(57)
+0-0	1496	
+-
+2	
+Alabama
+Alabama
+(1)
+0-0	1361	
+-
+3	
+Oregon
+Oregon
+(1)
+0-0	1334	
+-
+4	
+Oklahoma
+Oklahoma
+(1)
+0-0	1324	
+-
+5	
+Ohio State
+Ohio State
+0-0	1207	
+-
+6	
+Auburn
+Auburn
+0-0	1198	
+-
+7	
+UCLA
+UCLA
+0-0	1106	
+-
+8	
+Michigan State
+Michigan State
+0-0	1080	
+-
+9	
+South Carolina
+South Carolina
+0-0	1015	
+-
+10	
+Baylor
+Baylor
+0-0	966	
+-
+11	
+Stanford
+Stanford
+0-0	885	
+-
+12	
+Georgia
+Georgia
+0-0	843	
+NR
+13	
+LSU
+LSU
+0-0	776	
+-
+14	
+Wisconsin
+Wisconsin
+0-0	637	
+-
+15	
+USC
+USC
+0-0	626	
+-
+16	
+Clemson
+Clemson
+0-0	536	
+-
+17	
+Notre Dame
+Notre Dame
+0-0	445	
+-
+18	
+Ole Miss
+Ole Miss
+0-0	424	
+NR
+19	
+Arizona State
+Arizona State
+0-0	357	
+-
+20	
+Kansas State
+Kansas State
+0-0	242	
+NR
+21	
+Texas A&M
+Texas A&M
+0-0	238	
+-
+22	
+Nebraska
+Nebraska
+0-0	226	
+NR
+23	
+North Carolina
+North Carolina
+0-0	194	
+NR
+24	
+Missouri
+Missouri
+0-0	134	
+-
+25	
+Washington
+Washington
+0-0	130	
+-

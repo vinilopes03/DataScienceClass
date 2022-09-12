@@ -1,0 +1,132 @@
+https://www.espn.com/college-football/rankings/_/week/1/year/2015/seasontype/2
+AP Top 25
+RK	
+TEAM
+REC	PTS	
+TREND
+1	
+Ohio State
+Ohio State
+(61)
+0-0	1525	
+-
+2	
+TCU
+TCU
+0-0	1428	
+-
+3	
+Alabama
+Alabama
+0-0	1322	
+-
+4	
+Baylor
+Baylor
+0-0	1263	
+-
+5	
+Michigan State
+Michigan State
+0-0	1256	
+-
+6	
+Auburn
+Auburn
+0-0	1192	
+-
+7	
+Oregon
+Oregon
+0-0	1156	
+-
+8	
+USC
+USC
+0-0	1085	
+-
+9	
+Georgia
+Georgia
+0-0	991	
+-
+10	
+Florida State
+Florida State
+0-0	959	
+-
+11	
+Notre Dame
+Notre Dame
+0-0	873	
+NR
+12	
+Clemson
+Clemson
+0-0	862	
+-
+13	
+UCLA
+UCLA
+0-0	698	
+-
+14	
+LSU
+LSU
+0-0	675	
+NR
+15	
+Arizona State
+Arizona State
+0-0	605	
+-
+16	
+Georgia Tech
+Georgia Tech
+0-0	588	
+-
+17	
+Ole Miss
+Ole Miss
+0-0	563	
+-
+18	
+Arkansas
+Arkansas
+0-0	410	
+NR
+19	
+Oklahoma
+Oklahoma
+0-0	394	
+NR
+20	
+Wisconsin
+Wisconsin
+0-0	393	
+-
+21	
+Stanford
+Stanford
+0-0	347	
+NR
+22	
+Arizona
+Arizona
+0-0	311	
+-
+23	
+Boise State
+Boise State
+0-0	240	
+-
+24	
+Missouri
+Missouri
+0-0	219	
+-
+25	
+Tennessee
+Tennessee
+0-0	114	
+NR

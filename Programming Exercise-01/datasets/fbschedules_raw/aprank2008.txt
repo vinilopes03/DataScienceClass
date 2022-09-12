@@ -1,0 +1,136 @@
+https://www.espn.com/college-football/rankings/_/week/1/year/2008/seasontype/2
+AP Top 25
+RK	
+TEAM
+REC	PTS	
+TREND
+1	
+Georgia
+Georgia
+(22)
+0-0	0	
+-
+2	
+Ohio State
+Ohio State
+(21)
+0-0	0	
+-
+3	
+USC
+USC
+(12)
+0-0	0	
+-
+4	
+Oklahoma
+Oklahoma
+(4)
+0-0	0	
+-
+5	
+Florida
+Florida
+(6)
+0-0	0	
+-
+6	
+Missouri
+Missouri
+0-0	0	
+-
+7	
+LSU
+LSU
+0-0	0	
+-
+8	
+West Virginia
+West Virginia
+0-0	0	
+-
+9	
+Clemson
+Clemson
+0-0	0	
+-
+10	
+Auburn
+Auburn
+0-0	0	
+-
+11	
+Texas
+Texas
+0-0	0	
+-
+12	
+Texas Tech
+Texas Tech
+0-0	0	
+-
+13	
+Wisconsin
+Wisconsin
+0-0	0	
+-
+14	
+Kansas
+Kansas
+0-0	0	
+-
+15	
+Arizona State
+Arizona State
+0-0	0	
+-
+16	
+BYU
+BYU
+0-0	0	
+-
+17	
+Virginia Tech
+Virginia Tech
+0-0	0	
+-
+18	
+Tennessee
+Tennessee
+0-0	0	
+-
+19	
+South Florida
+South Florida
+0-0	0	
+NR
+20	
+Illinois
+Illinois
+0-0	0	
+-
+21	
+Oregon
+Oregon
+0-0	0	
+-
+22	
+Penn State
+Penn State
+0-0	0	
+NR
+23	
+Wake Forest
+Wake Forest
+0-0	0	
+NR
+24	
+Alabama
+Alabama
+0-0	0	
+NR
+25	
+Pittsburgh
+Pittsburgh
+0-0	0	
+NR

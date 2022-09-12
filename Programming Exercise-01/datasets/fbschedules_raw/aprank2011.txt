@@ -1,0 +1,136 @@
+https://www.espn.com/college-football/rankings/_/week/1/year/2011/seasontype/2
+AP Top 25
+RK	
+TEAM
+REC	PTS	
+TREND
+1	
+Oklahoma
+Oklahoma
+(36)
+0-0	0	
+-
+2	
+Alabama
+Alabama
+(17)
+0-0	0	
+-
+3	
+Oregon
+Oregon
+(4)
+0-0	0	
+-
+4	
+LSU
+LSU
+(1)
+0-0	0	
+-
+5	
+Boise State
+Boise State
+(2)
+0-0	0	
+-
+6	
+Florida State
+Florida State
+0-0	0	
+-
+7	
+Stanford
+Stanford
+0-0	0	
+-
+8	
+Texas A&M
+Texas A&M
+0-0	0	
+-
+9	
+Oklahoma State
+Oklahoma State
+0-0	0	
+-
+10	
+Nebraska
+Nebraska
+0-0	0	
+-
+11	
+Wisconsin
+Wisconsin
+0-0	0	
+-
+12	
+South Carolina
+South Carolina
+0-0	0	
+-
+13	
+Virginia Tech
+Virginia Tech
+0-0	0	
+-
+14	
+TCU
+TCU
+0-0	0	
+-
+15	
+Arkansas
+Arkansas
+0-0	0	
+-
+16	
+Notre Dame
+Notre Dame
+0-0	0	
+NR
+17	
+Michigan State
+Michigan State
+0-0	0	
+-
+18	
+Ohio State
+Ohio State
+0-0	0	
+-
+19	
+Georgia
+Georgia
+0-0	0	
+NR
+20	
+Mississippi State
+Mississippi State
+0-0	0	
+-
+21	
+Missouri
+Missouri
+0-0	0	
+-
+22	
+Florida
+Florida
+0-0	0	
+NR
+23	
+Auburn
+Auburn
+0-0	0	
+-
+24	
+West Virginia
+West Virginia
+0-0	0	
+NR
+25	
+USC
+USC
+0-0	0	
+NR

@@ -1,0 +1,136 @@
+https://www.espn.com/college-football/rankings/_/week/1/year/2010/seasontype/2
+AP Top 25
+RK	
+TEAM
+REC	PTS	
+TREND
+1	
+Alabama
+Alabama
+(54)
+0-0	0	
+-
+2	
+Ohio State
+Ohio State
+(3)
+0-0	0	
+-
+3	
+Boise State
+Boise State
+(1)
+0-0	0	
+-
+4	
+Florida
+Florida
+0-0	0	
+-
+5	
+Texas
+Texas
+(1)
+0-0	0	
+-
+6	
+TCU
+TCU
+0-0	0	
+-
+7	
+Oklahoma
+Oklahoma
+(1)
+0-0	0	
+NR
+8	
+Nebraska
+Nebraska
+0-0	0	
+-
+9	
+Iowa
+Iowa
+0-0	0	
+-
+10	
+Virginia Tech
+Virginia Tech
+0-0	0	
+-
+11	
+Oregon
+Oregon
+0-0	0	
+-
+12	
+Wisconsin
+Wisconsin
+0-0	0	
+-
+13	
+Miami
+Miami
+0-0	0	
+-
+14	
+USC
+USC
+0-0	0	
+-
+15	
+Pittsburgh
+Pittsburgh
+0-0	0	
+-
+16	
+Georgia Tech
+Georgia Tech
+0-0	0	
+-
+17	
+Arkansas
+Arkansas
+0-0	0	
+NR
+18	
+North Carolina
+North Carolina
+0-0	0	
+NR
+19	
+Penn State
+Penn State
+0-0	0	
+-
+20	
+Florida State
+Florida State
+0-0	0	
+NR
+21	
+LSU
+LSU
+0-0	0	
+-
+22	
+Auburn
+Auburn
+0-0	0	
+NR
+23	
+Georgia
+Georgia
+0-0	0	
+NR
+24	
+Oregon State
+Oregon State
+0-0	0	
+NR
+25	
+West Virginia
+West Virginia
+0-0	0	
+-

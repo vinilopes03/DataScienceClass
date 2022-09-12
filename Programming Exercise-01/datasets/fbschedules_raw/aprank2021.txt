@@ -1,0 +1,136 @@
+https://www.espn.com/college-football/rankings/_/week/1/year/2021/seasontype/2
+AP Top 25
+RK	
+TEAM
+REC	PTS	
+TREND
+1	
+Alabama
+Alabama
+(47)
+0-0	1548	
+NR
+2	
+Oklahoma
+Oklahoma
+(6)
+0-0	1462	
+NR
+3	
+Clemson
+Clemson
+(6)
+0-0	1447	
+NR
+4	
+Ohio State
+Ohio State
+(1)
+0-0	1393	
+NR
+5	
+Georgia
+Georgia
+(3)
+0-0	1364	
+NR
+6	
+Texas A&M
+Texas A&M
+0-0	1223	
+NR
+7	
+Iowa State
+Iowa State
+0-0	1160	
+NR
+8	
+Cincinnati
+Cincinnati
+0-0	1014	
+NR
+9	
+Notre Dame
+Notre Dame
+0-0	1009	
+NR
+10	
+North Carolina
+North Carolina
+0-0	999	
+NR
+11	
+Oregon
+Oregon
+0-0	968	
+NR
+12	
+Wisconsin
+Wisconsin
+0-0	743	
+NR
+13	
+Florida
+Florida
+0-0	728	
+NR
+14	
+Miami
+Miami
+0-0	663	
+NR
+15	
+USC
+USC
+0-0	660	
+NR
+16	
+LSU
+LSU
+0-0	631	
+NR
+17	
+Indiana
+Indiana
+0-0	549	
+NR
+18	
+Iowa
+Iowa
+0-0	513	
+NR
+19	
+Penn State
+Penn State
+0-0	456	
+NR
+20	
+Washington
+Washington
+0-0	449	
+NR
+21	
+Texas
+Texas
+0-0	350	
+NR
+22	
+Coastal Carolina
+Coastal Carolina
+0-0	232	
+NR
+23	
+Louisiana
+Louisiana
+0-0	208	
+NR
+24	
+Utah
+Utah
+0-0	176	
+NR
+25	
+Arizona State
+Arizona State
+0-0	125	
+NR

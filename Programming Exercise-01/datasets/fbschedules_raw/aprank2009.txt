@@ -1,0 +1,132 @@
+https://www.espn.com/college-football/rankings/_/week/1/year/2009/seasontype/2
+AP Top 25
+RK	
+TEAM
+REC	PTS	
+TREND
+1	
+Florida
+Florida
+(58)
+0-0	0	
+-
+2	
+Texas
+Texas
+(2)
+0-0	0	
+-
+3	
+Oklahoma
+Oklahoma
+0-0	0	
+-
+4	
+USC
+USC
+0-0	0	
+-
+5	
+Alabama
+Alabama
+0-0	0	
+-
+6	
+Ohio State
+Ohio State
+0-0	0	
+-
+7	
+Virginia Tech
+Virginia Tech
+0-0	0	
+-
+8	
+Ole Miss
+Ole Miss
+0-0	0	
+-
+9	
+Oklahoma State
+Oklahoma State
+0-0	0	
+-
+Penn State
+Penn State
+0-0	0	
+-
+11	
+LSU
+LSU
+0-0	0	
+NR
+12	
+California
+California
+0-0	0	
+NR
+13	
+Georgia
+Georgia
+0-0	0	
+-
+14	
+Boise State
+Boise State
+0-0	0	
+-
+15	
+Georgia Tech
+Georgia Tech
+0-0	0	
+-
+16	
+Oregon
+Oregon
+0-0	0	
+-
+17	
+TCU
+TCU
+0-0	0	
+-
+18	
+Florida State
+Florida State
+0-0	0	
+-
+19	
+Utah
+Utah
+0-0	0	
+-
+20	
+BYU
+BYU
+0-0	0	
+-
+21	
+North Carolina
+North Carolina
+0-0	0	
+NR
+22	
+Iowa
+Iowa
+0-0	0	
+-
+23	
+Notre Dame
+Notre Dame
+0-0	0	
+NR
+24	
+Nebraska
+Nebraska
+0-0	0	
+NR
+25	
+Kansas
+Kansas
+0-0	0	
+NR

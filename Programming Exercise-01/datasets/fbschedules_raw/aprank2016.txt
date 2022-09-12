@@ -1,0 +1,138 @@
+https://www.espn.com/college-football/rankings/_/week/1/year/2016/seasontype/2
+AP Top 25
+RK	
+TEAM
+REC	PTS	
+TREND
+1	
+Alabama
+Alabama
+(33)
+0-0	1469	
+-
+2	
+Clemson
+Clemson
+(16)
+0-0	1443	
+-
+3	
+Oklahoma
+Oklahoma
+(4)
+0-0	1352	
+-
+4	
+Florida State
+Florida State
+(5)
+0-0	1325	
+-
+5	
+LSU
+LSU
+(1)
+0-0	1269	
+-
+6	
+Ohio State
+Ohio State
+(1)
+0-0	1224	
+-
+7	
+Michigan
+Michigan
+(1)
+0-0	1147	
+-
+8	
+Stanford
+Stanford
+0-0	1029	
+-
+9	
+Tennessee
+Tennessee
+0-0	1021	
+-
+10	
+Notre Dame
+Notre Dame
+0-0	1006	
+-
+11	
+Ole Miss
+Ole Miss
+0-0	718	
+-
+12	
+Michigan State
+Michigan State
+0-0	710	
+-
+13	
+TCU
+TCU
+0-0	707	
+-
+14	
+Washington
+Washington
+0-0	651	
+NR
+15	
+Houston
+Houston
+0-0	644	
+-
+16	
+UCLA
+UCLA
+0-0	496	
+NR
+17	
+Iowa
+Iowa
+0-0	484	
+-
+18	
+Georgia
+Georgia
+0-0	448	
+NR
+19	
+Louisville
+Louisville
+0-0	447	
+NR
+20	
+USC
+USC
+0-0	344	
+NR
+21	
+Oklahoma State
+Oklahoma State
+0-0	316	
+-
+22	
+North Carolina
+North Carolina
+0-0	283	
+-
+23	
+Baylor
+Baylor
+0-0	280	
+-
+24	
+Oregon
+Oregon
+0-0	218	
+-
+25	
+Florida
+Florida
+0-0	180	
+-

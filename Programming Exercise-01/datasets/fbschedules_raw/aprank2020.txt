@@ -1,0 +1,135 @@
+https://www.espn.com/college-football/rankings/_/week/1/year/2020/seasontype/2
+AP Top 25
+RK	
+TEAM
+REC	PTS	
+TREND
+1	
+Clemson
+Clemson
+(38)
+0-0	1520	
+NR
+2	
+Ohio State
+Ohio State
+(21)
+0-0	1504	
+NR
+3	
+Alabama
+Alabama
+(2)
+0-0	1422	
+NR
+4	
+Georgia
+Georgia
+0-0	1270	
+NR
+5	
+Oklahoma
+Oklahoma
+0-0	1269	
+NR
+6	
+LSU
+LSU
+(1)
+0-0	1186	
+NR
+7	
+Penn State
+Penn State
+0-0	1147	
+NR
+8	
+Florida
+Florida
+0-0	1125	
+NR
+9	
+Oregon
+Oregon
+0-0	1119	
+NR
+10	
+Notre Dame
+Notre Dame
+0-0	995	
+NR
+11	
+Auburn
+Auburn
+0-0	852	
+NR
+12	
+Wisconsin
+Wisconsin
+0-0	840	
+NR
+13	
+Texas A&M
+Texas A&M
+0-0	764	
+NR
+14	
+Texas
+Texas
+0-0	703	
+NR
+15	
+Oklahoma State
+Oklahoma State
+0-0	672	
+NR
+16	
+Michigan
+Michigan
+0-0	611	
+NR
+17	
+USC
+USC
+0-0	534	
+NR
+18	
+North Carolina
+North Carolina
+0-0	496	
+NR
+19	
+Minnesota
+Minnesota
+0-0	451	
+NR
+20	
+Cincinnati
+Cincinnati
+0-0	234	
+NR
+21	
+UCF
+UCF
+0-0	229	
+NR
+22	
+Utah
+Utah
+0-0	211	
+NR
+23	
+Iowa State
+Iowa State
+0-0	199	
+NR
+24	
+Iowa
+Iowa
+0-0	134	
+NR
+25	
+Tennessee
+Tennessee
+0-0	133	
+NR

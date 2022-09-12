@@ -1,0 +1,133 @@
+https://www.espn.com/college-football/rankings/_/week/1/year/2019/seasontype/2
+AP Top 25
+RK	
+TEAM
+REC	PTS	
+TREND
+1	
+Clemson
+Clemson
+(52)
+0-0	1540	
+NR
+2	
+Alabama
+Alabama
+(10)
+0-0	1496	
+NR
+3	
+Georgia
+Georgia
+0-0	1403	
+NR
+4	
+Oklahoma
+Oklahoma
+0-0	1331	
+NR
+5	
+Ohio State
+Ohio State
+0-0	1261	
+NR
+6	
+LSU
+LSU
+0-0	1199	
+NR
+7	
+Michigan
+Michigan
+0-0	1164	
+NR
+8	
+Florida
+Florida
+0-0	1054	
+NR
+9	
+Notre Dame
+Notre Dame
+0-0	1044	
+NR
+10	
+Texas
+Texas
+0-0	1005	
+NR
+11	
+Oregon
+Oregon
+0-0	860	
+NR
+12	
+Texas A&M
+Texas A&M
+0-0	852	
+NR
+13	
+Washington
+Washington
+0-0	786	
+NR
+14	
+Utah
+Utah
+0-0	772	
+NR
+15	
+Penn State
+Penn State
+0-0	651	
+NR
+16	
+Auburn
+Auburn
+0-0	578	
+NR
+17	
+UCF
+UCF
+0-0	410	
+NR
+18	
+Michigan State
+Michigan State
+0-0	377	
+NR
+19	
+Wisconsin
+Wisconsin
+0-0	370	
+NR
+20	
+Iowa
+Iowa
+0-0	330	
+NR
+21	
+Iowa State
+Iowa State
+0-0	302	
+NR
+22	
+Syracuse
+Syracuse
+0-0	209	
+NR
+23	
+Washington State
+Washington State
+0-0	200	
+NR
+24	
+Nebraska
+Nebraska
+0-0	154	
+NR
+25	
+Stanford
+Stanford
+0-0	141	
+NR
